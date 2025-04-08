@@ -11,11 +11,11 @@ Hi, I am Tongcheng😀, currently a master's student in the [NICS-EFC Lab](https
 
 Selected Papers
 ======
-[[ICLR 25] ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation](https://arxiv.org/pdf/2406.02540)
+[[ICLR 25] ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation](https://arxiv.org/pdf/2406.02540)  
 We introduce ViDiT-Q, a quantization method specialized for diffusion transformers. For popular large-scale models (e.g., open-sora, Latte, Pixart-α, Pixart-Σ) for the video and image generation task, ViDiT-Q could achieve W8A8 quantization without metric degradation, and W4A8 without notable visual quality degradation.  
 *Tianchen Zhao, **Tongcheng Fang**, Haofeng Huang, Enshu Liu, Rui Wan, Widyadewi Soedarmadji, Shiyao Li, Zinan Lin, Guohao Dai, Shengen Yan, Huazhong Yang, Xuefei Ning, Yu Wang*
 
-[[ECCV24] **MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**](https://arxiv.org/pdf/2405.17873) 
+[[ECCV24] **MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**](https://arxiv.org/pdf/2405.17873)  
 We design MixDQ, a mixed-precision quantization framework that successfully tackles the challenging few-step text-to-image diffusion model quantization. With negligible visual quality degradation and content change, MixDQ could achieve W4A8, with equivalent 3.4x memory compression and 1.5x latency speedup.  
 *Tianchen Zhao\*, Xuefei Ning\*, **Tongcheng Fang**\*, Enshu Liu, Guyue Huang, Zinan Lin, Shengen Yan, Guohao Dai, Yu Wang*  
 

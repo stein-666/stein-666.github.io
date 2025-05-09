@@ -17,7 +17,7 @@ Internship
 
 Selected Publications
 ======
-*\*Equal contribution*
+* indicates equal contribution
 
 [[ICLR 25] **ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**](https://arxiv.org/pdf/2406.02540)  
 We introduce ViDiT-Q, a quantization method specialized for diffusion transformers. For popular large-scale models (e.g., open-sora, Latte, Pixart-α, Pixart-Σ) for the video and image generation task, ViDiT-Q could achieve W8A8 quantization without metric degradation, and W4A8 without notable visual quality degradation.  

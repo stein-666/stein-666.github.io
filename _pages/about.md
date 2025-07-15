@@ -19,13 +19,11 @@ Publications
 ======
 \* indicates equal contribution
 
-[[MM 25] **DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation**](https://arxiv.org/pdf/2502.11897)
-
-we propose the Dynamic Latent Frame Rate VAE (DLFR-VAE), a training-free paradigm that can make use of adaptive temporal compression in latent space.
+[[MM 25] **DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation**](https://arxiv.org/pdf/2502.11897)  
+We propose the Dynamic Latent Frame Rate VAE (DLFR-VAE), a training-free paradigm that can make use of adaptive temporal compression in latent space.
 Zhihang Yuan, Siyuan Wang, Rui Xie, Hanling Zhang, **Tongcheng Fang**, Yuzhang Shang, Shengen Yan, Guohao Dai, Yu Wang
 
-[[arXiv 25] **E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**](https://arxiv.org/pdf/2412.14170)
-
+[[arXiv 25] **E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**](https://arxiv.org/pdf/2412.14170)  
 We presents E-CAR, an efficient autoregressive image generation model with cascaded modeling in continuous latent space.
 Zhihang Yuan, Yuzhang Shang, Hanling Zhang, **Tongcheng Fang**, Rui Xie, Bingxin Xu, Yan Yan, Shengen Yan, Guohao Dai, Yu Wang
 

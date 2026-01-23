@@ -12,11 +12,11 @@ Hi👋, I am Tongcheng, currently a master's student in the [NICS-EFC Lab](https
 
 Internship
 ======
-- **Infinigence AI** — Algorithm Research Intern  
+**Infinigence AI** — Algorithm Research Intern  
   Aug 2023 – Jul 2025  
   Mentor: [Xuefei Ning](https://nics-effalg.com/ningxuefei/)
 
-- **Kling Team, Kuaishou Technology** — Algorithm Research Intern  
+**Kling Team, Kuaishou Technology** — Algorithm Research Intern  
   Feb 2026 – Present  
   Mentor: [Xin Tao](https://www.xtao.website/)
 

@@ -107,6 +107,16 @@
   }
 }
 
+.page--home {
+  .page__content {
+    h2 {
+      margin-left: 0;
+      font-size: $type-size-3;
+      line-height: 1;
+    }
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
